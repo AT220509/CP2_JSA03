@@ -1,0 +1,6 @@
+#login {
+    width: 480px;
+    display: flex;
+    flex-direction: column;
+    padding: 24px;
+}
